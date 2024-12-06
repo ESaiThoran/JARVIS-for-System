@@ -1,0 +1,6 @@
+12:31AM = Sir tis is Your sleep time
+11:06PM = Sir tis is Your wake up time
+04:42PM = Sir time to reminder you wake up
+07:21PM = Sir time to reminder you drink wer
+07:36PM = Sir time to reminder you wake up
+07:38PM = Sir time to reminder you set reminder   saying drink wer
